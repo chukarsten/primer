@@ -1,0 +1,14 @@
+numpy>=1.16.4
+pandas>=0.25.0
+scikit-learn>=0.23
+pytest==4.4.1
+flake8==3.7.0
+autopep8==1.4.3
+isort==4.3.4
+nltk>=3.4.5
+scipy>=1.4.1
+Shapely>=1.7.1
+geopandas>=0.8.1
+Fiona>=1.8.17
+inflection>=0.5.1
+matplotlib==3.2.1
